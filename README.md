@@ -2,7 +2,7 @@
 Übungsprojekt Software Carpentry GSLS April 2019
 30.4.2019
 ## Kapitel 1: Einleitung
-Schöne Formulierung local.
+Schöne Formulierung local und remote
 
 ## Kapitel 2: Methoden
 
@@ -14,10 +14,10 @@ Schöne Formulierung local.
 
 ## Kapitel 6: Zusammenfassung
 
-## Kapitel 6: Literaturangaben
+## Kapitel 7: Literaturangaben
 Es sollten auf jeden Fall auch Literaturangaben enthalten sein.
 
 ## Autoren
 
 ## Danksagung
-Vielen <3-lichen Dank an alle Beteiligten!
+Vielen herzlichen Dank an alle Beteiligten!
