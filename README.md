@@ -7,9 +7,11 @@
 
 ## Kapitel 3: Verwendung meiner Software
 
-## Kapitel 4: Output-Dateien
+## Kapitel 4: Input-Dateien
 
-## Kapitel 5: Zusammenfassung
+## Kapitel 5: Output-Dateien
+
+## Kapitel 6: Zusammenfassung
 
 ## Kapitel 6: Literaturangaben
 Es sollten auf jeden Fall auch Literaturangaben enthalten sein.
