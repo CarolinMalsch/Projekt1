@@ -14,4 +14,4 @@
 ## Autoren
 
 ## Danksagung
-Vielen Dank an alle Beteiligten.
+Vielen <3-lichen Dank an alle Beteiligten!
