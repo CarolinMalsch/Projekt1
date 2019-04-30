@@ -12,3 +12,6 @@
 ## Kapitel 5: Zusammenfassung
 
 ## Autoren
+
+## Danksagung
+Vielen Dank an alle Beteiligten.
