@@ -11,6 +11,9 @@
 
 ## Kapitel 5: Zusammenfassung
 
+## Kapitel 6: Literaturangaben
+Es sollten auf jeden Fall auch Literaturangaben enthalten sein.
+
 ## Autoren
 
 ## Danksagung
