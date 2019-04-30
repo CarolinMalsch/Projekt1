@@ -2,6 +2,7 @@
 Übungsprojekt Software Carpentry GSLS April 2019
 30.4.2019
 ## Kapitel 1: Einleitung
+Schöne Formulierung local.
 
 ## Kapitel 2: Methoden
 
